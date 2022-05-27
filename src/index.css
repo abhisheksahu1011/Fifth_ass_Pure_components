@@ -1,0 +1,16 @@
+*{
+    margin: auto;
+    padding: 10px;
+    box-sizing: 0;
+    background-color: rgb(144, 176, 235);
+}
+
+div{
+   font-size: large;
+   font-weight: bolder;
+   font-style: italic;
+}
+h1,h2{
+    text-decoration: underline  gray;
+    color:rgb(182, 56, 56);
+}
